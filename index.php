@@ -5,6 +5,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <style>
+        body{
+            padding: 5% 15%;
+            font-family: sans-serif;
+            font-size: 15px;
+            line-height: 1.6em;
+        }
+
+        h2{
+            margin-top: 2em;
+        }
+
+        ol li{
+            margin-top: 1em;
+        }
+    </style>
 </head>
 <body>
     <?php
